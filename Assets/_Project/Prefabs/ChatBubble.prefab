@@ -259,7 +259,7 @@ GameObject:
   - component: {fileID: 2643872562634834845}
   - component: {fileID: 9122925153622889820}
   m_Layer: 5
-  m_Name: ChatCanvas
+  m_Name: ChatBubble
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -358,4 +358,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78b36baf0156c4fc795a86d446f1970d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  chatText: {fileID: 0}
+  chatText: {fileID: 2643872560662272869}
